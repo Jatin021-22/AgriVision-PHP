@@ -76,7 +76,7 @@ The system combines **product purchasing, agricultural news, blogging, and live 
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AgriVision-PHP.git
+git clone https://github.com/Jatin)21-22/AgriVision-PHP.git
 
 2️⃣ Move project
 
